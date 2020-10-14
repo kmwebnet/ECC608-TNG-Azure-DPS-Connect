@@ -1,0 +1,6 @@
+[submodule "components/esp-azure"]
+	path = components/esp-azure
+	url = https://github.com/kmwebnet/esp-azure.git
+[submodule "components/cryptoauthlib/cryptoauthlib"]
+	path = components/cryptoauthlib/cryptoauthlib
+	url = https://github.com/MicrochipTech/cryptoauthlib.git
