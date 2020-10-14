@@ -52,17 +52,17 @@ just execute "Upload" on Platformio.
 
 if it's success, you got on terminal as follows:
 
-Provisioning API Version: 1.2.14
-Iothub API Version: 1.2.14
-common name: sn0123XXXXXXXXXXXX01
-Provisioning Status: PROV_DEVICE_REG_STATUS_CONNECTED
-Provisioning Status: PROV_DEVICE_REG_STATUS_ASSIGNING
-Registration Information received from service: XXXXX.azure-devices.net!
-Creating IoTHub Device handle
-common name: sn0123XXXXXXXXXXXX01
-Sending 1 messages to IoTHub every 2 seconds for 2 messages (Send any message to stop)
-IoTHubClient_LL_SendEventAsync accepted message [1] for transmission to IoT Hub.
-IoTHubClient_LL_SendEventAsync accepted message [2] for transmission to IoT Hub.
+Provisioning API Version: 1.2.14  
+Iothub API Version: 1.2.14  
+common name: sn0123XXXXXXXXXXXX01  
+Provisioning Status: PROV_DEVICE_REG_STATUS_CONNECTED  
+Provisioning Status: PROV_DEVICE_REG_STATUS_ASSIGNING  
+Registration Information received from service: XXXXX.azure-devices.net!  
+Creating IoTHub Device handle  
+common name: sn0123XXXXXXXXXXXX01  
+Sending 1 messages to IoTHub every 2 seconds for 2 messages (Send any message to stop)  
+IoTHubClient_LL_SendEventAsync accepted message [1] for transmission to IoT Hub.  
+IoTHubClient_LL_SendEventAsync accepted message [2] for transmission to IoT Hub.  
 
 
 # License
